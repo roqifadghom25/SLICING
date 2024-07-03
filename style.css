@@ -82,3 +82,106 @@
 .medali2{
     margin-top: -25px;
 }
+
+.Award{
+    margin-top: 60px;
+    margin-left: 513px;
+}
+
+.tekstengah{
+    margin-top: 90px;
+    margin-left: 490px;
+    font-size: 25px;
+}
+
+
+
+.img1 {
+    position: relative;
+    width: 300px; /* Sesuaikan dengan lebar gambar */
+    height: 200px; /* Sesuaikan dengan tinggi gambar */
+    overflow: hidden;
+    border-radius: 10px; /* Radius sudut */
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+.img1 img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-out;
+}
+
+.img1:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Efek bayangan saat di hover */
+}
+
+.satu{
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.gambar2{
+    margin-top: -288px;
+    margin-left: 340px;
+}
+
+.gambar3{
+    margin-top: -288px;
+    margin-left: 680px;
+}
+
+.tiga_B{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.sendiri{
+    margin-top: 75px;
+    margin-left: 475px;
+}
+
+.sendiri1{
+    margin-top: 30px;
+    margin-left: 436px;
+    font-size: 25px;
+}
+
+.button{
+    margin-top: 35px;
+    margin-left: 459px;
+    
+}
+
+.sendiri2{
+    margin-top: 80px;
+    margin-left: 50px;
+    color: #535353;
+}
+
+.bg8{
+    margin-top: -24px;
+    margin-left: 835px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.bg9{
+    margin-top: -28px;
+    margin-left: 880px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.bg10{
+    margin-top: -28px;
+    margin-left: 928px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.iconbawah{
+    margin-left: 70px;
+}
