@@ -1,0 +1,48 @@
+.teks{
+    margin-left: 35px;
+}
+
+.teks1{
+    margin-top: -180px;
+    margin-left: 550px;
+}
+
+.teks2{
+    margin-top: -90px;
+    margin-left: 550px;
+}
+
+.teks3{
+    margin-top: -80px;
+    margin-left: 550px;
+    width: 400px;
+}
+
+.teks4{
+    margin-left: 565px;
+}
+
+.teks5{
+    margin-left: 680px;
+    margin-top: -35px;
+}
+
+.bg1{
+    margin-top: -100px;
+    margin-left: 85px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.bg2{
+    margin-top: -28.5px;
+    margin-left: 130px;
+    width: 30px;
+    cursor: pointer;
+}
+.bg3{
+    margin-top: -28px;
+    margin-left: 175px;
+    width: 30px;
+    cursor: pointer;
+}
